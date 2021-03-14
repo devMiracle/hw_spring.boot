@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/brocker/brocker.iml" filepath="$PROJECT_DIR$/brocker/brocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brocker/broker.iml" filepath="$PROJECT_DIR$/brocker/broker.iml" />
     </modules>
   </component>
 </project>
